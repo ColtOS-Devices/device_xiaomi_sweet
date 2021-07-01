@@ -1,0 +1,20 @@
+[
+  {
+    "remote"      : "github",
+    "repository"  : "ColtOS-Devices/device_xiaomi_sweet",
+    "target_path" : "device/xiaomi/sweet",
+    "branch"      : "c11"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "ColtOS-Devices/vendor_xiaomi_sweet",
+    "target_path" : "vendor/xiaomi/sweet",
+    "branch"      : "r11"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "AdarshGrewal/kernel_xiaomi_sweet",
+    "target_path" : "kernel/xiaomi/sweet",
+    "branch"      : "11"
+  }
+]
